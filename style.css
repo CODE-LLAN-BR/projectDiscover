@@ -12,7 +12,8 @@ body{
     font-variation-settings:
       "slnt" 0;
      color: var(--text-color);
-     width: 360px;
+     width: 100%;
+     max-width: 588px;
      height: 800px;
      /* border: 1px solid white; */
      margin:56px auto 0px;
